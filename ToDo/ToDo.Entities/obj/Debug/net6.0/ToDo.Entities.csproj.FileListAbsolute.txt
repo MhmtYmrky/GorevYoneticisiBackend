@@ -1,0 +1,11 @@
+C:\Users\msi\source\repos\ToDo\ToDo.Entities\bin\Debug\net6.0\ToDo.Entities.deps.json
+C:\Users\msi\source\repos\ToDo\ToDo.Entities\bin\Debug\net6.0\ToDo.Entities.dll
+C:\Users\msi\source\repos\ToDo\ToDo.Entities\bin\Debug\net6.0\ToDo.Entities.pdb
+C:\Users\msi\source\repos\ToDo\ToDo.Entities\obj\Debug\net6.0\ToDo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\source\repos\ToDo\ToDo.Entities\obj\Debug\net6.0\ToDo.Entities.AssemblyInfoInputs.cache
+C:\Users\msi\source\repos\ToDo\ToDo.Entities\obj\Debug\net6.0\ToDo.Entities.AssemblyInfo.cs
+C:\Users\msi\source\repos\ToDo\ToDo.Entities\obj\Debug\net6.0\ToDo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\ToDo\ToDo.Entities\obj\Debug\net6.0\ToDo.Entities.dll
+C:\Users\msi\source\repos\ToDo\ToDo.Entities\obj\Debug\net6.0\refint\ToDo.Entities.dll
+C:\Users\msi\source\repos\ToDo\ToDo.Entities\obj\Debug\net6.0\ToDo.Entities.pdb
+C:\Users\msi\source\repos\ToDo\ToDo.Entities\obj\Debug\net6.0\ref\ToDo.Entities.dll
